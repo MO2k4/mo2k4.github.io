@@ -1,5 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    {% include archive.html %}
+
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
@@ -7,9 +9,7 @@
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
-    </div>
-
-    {% include archive.html %}
+    </div>   
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
