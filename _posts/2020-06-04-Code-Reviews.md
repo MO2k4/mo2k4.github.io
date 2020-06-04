@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Review / Discussion or why pull request are important
+tags: code review development
 ---
 
 ![submitter vs reviewer](https://codingdash.com/resources/2019/04/21/code-review.jpeg)

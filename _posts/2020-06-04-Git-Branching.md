@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git Branching Strategies
+tags: git branch branching strategy development
 ---
 
 ![branching](https://map-client.readthedocs.io/en/latest/_images/gitflow.png)
