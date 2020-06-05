@@ -5,7 +5,7 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="mo" style="width:15rem;height:15rem;" align="right"/></p>
 
-I am Martin Oehlert, M. Sc. software developer from germany <i class="em em-de"></i>. My focuses are **Clean Code**, **Code Quality**, **Testing**.
+I am Martin Oehlert, M. Sc., software enineer from germany <i class="em em-de"></i>. My focuses are **Clean Code**, **Code Quality**, **Testing**.
 
 ### Professional Experience
 
