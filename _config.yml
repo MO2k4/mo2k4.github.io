@@ -14,7 +14,7 @@ author:
   name:           'Martin Oehlert'
 
 paginate:         5
-emailme:          mo2k4_blog@gmx.de
+emailme:          mailto:mo2k4_blog@gmx.de
 
 gems:             [jekyll-paginate, jekyll-sitemap]
 
