@@ -6,7 +6,7 @@ title: Links
 ### Development
 
 * [Bogus](https://github.com/bchavez/Bogus)
-  * Bogus is a simple and sane fake data generator for .NET languages like C#, F# and `VB.NET`. Bogus is fundamentally a C# port of faker.js and inspired by FluentValidation's syntax sugar.
+  * Bogus is a simple and sane fake data generator for .NET languages like C#, F# and VB<x>.NET. Bogus is fundamentally a C# port of faker.js and inspired by FluentValidation's syntax sugar.
 * [CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017)
   * This project converts an existing csproj to the new format, shortening the project file and using all the nice new features that are part of modern Visual Studio versions.
 * [Dependabot](https://dependabot.com/)
