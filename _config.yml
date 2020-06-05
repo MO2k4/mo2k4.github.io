@@ -9,19 +9,16 @@ permalink:        pretty
 title:            Martin Oehlert
 tagline:          'my blog'
 description:      'Another developer blogging about technical stuff'
-url:              
-baseurl:          /
 
 author:
   name:           'Martin Oehlert'
-  url:            
 
 paginate:         5
+emailme:          mo2k4_blog@gmx.de
 
 gems:             [jekyll-paginate, jekyll-sitemap]
 
-# Custom vars
-version:          2.1.0
-
 github:
   repo:           https://github.com/mo2k4/mo2k4.github.io
+
+tags:
