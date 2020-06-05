@@ -5,7 +5,8 @@ title: About Me
 
 <p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="mo" style="width:15rem;height:15rem;" align="right"/></p>
 
-I am Martin Oehlert, M. Sc., a software enineer from germany <i class="em em-de"></i>. My focuses are **Clean Code**, **Code Quality**, **Testing**.
+I am Martin Oehlert, M. Sc., a software enineer from germany <i class="em em-de"></i>.
+My focuses are **Clean Code**, **Code Quality**, **Testing**.
 
 ### Professional Experience
 
@@ -19,3 +20,13 @@ I am Martin Oehlert, M. Sc., a software enineer from germany <i class="em em-de"
 ### Other Activities
 
 I enjoy running <i class="em em-runner"></i> and cycling <i class="em em-bicyclist"></i>.
+
+### Used tools
+
+* [JetBrains Rider](https://www.jetbrains.com/rider/)
+* [VS Code](https://code.visualstudio.com/)
+* [StyleCop](https://github.com/StyleCop/StyleCop)
+* [Windows Terminal](https://github.com/microsoft/terminal)
+* [Chocolatey](https://chocolatey.org/)
+* [Xrm Toolbox](https://www.xrmtoolbox.com/)
+* [Visual Studio](https://visualstudio.microsoft.com/)

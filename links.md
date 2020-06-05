@@ -12,6 +12,7 @@ title: Links
 * [Dependabot](https://dependabot.com/)
   * Automated dependency updates - Dependabot creates pull requests to keep your dependencies secure and up-to-date.
 * [A couple of nice Tuple use cases](http://josephwoodward.co.uk/2020/03/couple-nice-tuple-use-cases)
+* [Write high quality typescript code](https://blog.jetbrains.com/dotnet/2020/05/28/write-high-quality-typescript-code/)
 
 ### Azure Devops
 
